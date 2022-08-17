@@ -1,0 +1,28 @@
+.fundo{
+    background-image: linear-gradient(to right, rgb(103, 22, 233),rgb(233, 233, 99),purple);
+}
+
+.box{
+    
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    text-align: center;
+    box-shadow: 10px 10px 20px red;
+    
+}
+
+.img1{
+
+    width: 500px;
+    height: 600px;
+    opacity: 0.9;
+    
+    
+    
+    
+
+}
